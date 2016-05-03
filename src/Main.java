@@ -1,3 +1,4 @@
+
 public class Main {
 	public static void main(String[] args) {
 		displayToto();
@@ -11,6 +12,7 @@ public class Main {
 	
 	private static void displayIiti(){
 		System.out.println("titi");		
+
 	}
 	
 	private static void displayIutu(){
