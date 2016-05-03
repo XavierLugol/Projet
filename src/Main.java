@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
-<<<<<<< Updated upstream
-=======
 		displayToto();
 		displayIiti();
 		displayIutu();
@@ -15,7 +13,6 @@ public class Main {
 	
 	private static void displayIiti(){
 		System.out.println("titi");		
->>>>>>> Stashed changes
 	}
 	
 	private static void displayIutu(){
